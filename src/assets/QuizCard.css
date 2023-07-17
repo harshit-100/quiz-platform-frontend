@@ -1,0 +1,16 @@
+.quiz-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.quiz-card h3 {
+  margin-top: 0;
+}
+
+.quiz-card p {
+  margin-bottom: 5px;
+}
+
+/* Add additional CSS styles as needed */
